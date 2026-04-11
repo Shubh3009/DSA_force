@@ -5,3 +5,11 @@
 <img width="1335" height="694" alt="image" src="https://github.com/user-attachments/assets/f19111f9-03f5-4484-9876-e4d41e7f7b5b" />
 
 <img width="1208" height="712" alt="image" src="https://github.com/user-attachments/assets/9475ce69-e5b8-4317-bd7d-a48caf0a4023" />
+
+
+int main(){
+
+    vector<int>arr={1,2,3,4,5}
+
+    # 
+}
