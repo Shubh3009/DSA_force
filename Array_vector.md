@@ -14,16 +14,16 @@ using namespace std;
 int main(){
     vector<int>arr={1,2,3,4,5}
 
-    cout<<arr.size()<<endl;    -- size of the vector (number of element) -5
+    cout<<arr.size()<<endl;    ## size of the vector (number of element) -5
 
-    cout<<arr.capacity()<<endl;   -- capacity of vector same as of initialisation - 5
+    cout<<arr.capacity()<<endl;   ## capacity of vector same as of initialisation - 5
 
     arr.push_back(6);   - put element at O(1) time
 
 
-    cout<<arr.size()<<endl;    -- size of the vector (number of element) - 6
+    cout<<arr.size()<<endl;    ## size of the vector (number of element) - 6
 
-    cout<<arr.capacity()<<endl;   -- it doubles its size to accomodate more element - 10
+    cout<<arr.capacity()<<endl;   ## it doubles its size to accomodate more element - 10
 
 
     //print all element of array
