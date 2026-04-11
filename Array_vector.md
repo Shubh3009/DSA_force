@@ -6,6 +6,8 @@
 
 <img width="1208" height="712" alt="image" src="https://github.com/user-attachments/assets/9475ce69-e5b8-4317-bd7d-a48caf0a4023" />
 
+### Basic of Vector
+
 ```cpp
 
 #include<bits/stdc++.h>
