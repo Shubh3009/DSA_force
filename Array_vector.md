@@ -38,6 +38,11 @@ int main(){
     vector<int>arr(8,3)                 // op= {3,3,3,3,3,3,3,3}
     vector<int>vis(100,9)    
 } 
+
+
+
+___________________________________________________________________________________________________________________________________________________
+
 Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k] == 0.
 
 Notice that the solution set must not contain duplicate triplets.
